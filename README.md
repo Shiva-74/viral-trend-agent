@@ -195,8 +195,8 @@ viral_agent/
 ### 1. Clone and create environment
 
 ```bash
-git clone https://github.com/yourusername/viral_agent
-cd viral_agent
+git clone https://github.com/yourusername/viral-trend-agent
+cd viral-trend-agent
 python -m venv venv
 
 # Windows
