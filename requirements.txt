@@ -1,0 +1,37 @@
+# Scheduling
+APScheduler==3.10.4
+
+# Data fetching
+requests==2.31.0
+feedparser==6.0.11
+pytrends==4.9.2
+beautifulsoup4==4.12.3
+lxml==5.1.0
+
+# NLP & Embeddings
+sentence-transformers==2.7.0
+hdbscan
+scikit-learn==1.4.2
+numpy==1.26.4
+
+# Emotion Detection
+transformers==4.40.0
+torch==2.3.0
+
+# OCR for meme predictor
+pytesseract==0.3.10
+Pillow==10.3.0
+
+# Database
+SQLAlchemy==2.0.29
+
+# Telegram Bot
+python-telegram-bot==21.3
+
+# Dashboard
+streamlit==1.35.0
+
+# Utilities
+python-dotenv==1.0.1
+loguru==0.7.2
+httpx==0.27.0
